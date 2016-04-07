@@ -1,0 +1,6 @@
+D:\Uygulamalar\BosOtopark\BosOtopark\bin\Debug\BosOtopark.exe.config
+D:\Uygulamalar\BosOtopark\BosOtopark\bin\Debug\BosOtopark.exe
+D:\Uygulamalar\BosOtopark\BosOtopark\bin\Debug\BosOtopark.pdb
+D:\Uygulamalar\BosOtopark\BosOtopark\obj\Debug\BosOtopark.csprojResolveAssemblyReference.cache
+D:\Uygulamalar\BosOtopark\BosOtopark\obj\Debug\BosOtopark.exe
+D:\Uygulamalar\BosOtopark\BosOtopark\obj\Debug\BosOtopark.pdb
